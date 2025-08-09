@@ -1,0 +1,28 @@
+{
+  "title": "Interjections (ఆశ్చర్యార్థకాలు)",
+  "definition": {
+    "en": "An interjection is a word or phrase that expresses strong emotion. It is often followed by an exclamation mark.",
+    "tel": "ఆశ్చర్యార్థకం అనేది బలమైన భావోద్వేగాన్ని వ్యక్తపరిచే పదం లేదా పదబంధం. దీని తరువాత తరచుగా ఆశ్చర్యార్థకం గుర్తు ఉంటుంది."
+  },
+  "examples": [
+    {
+      "en": "Wow! That is a beautiful car. 'Wow!' is an interjection.",
+      "tel": "వావ్! అది ఒక అందమైన కారు. 'వావ్!' ఒక ఆశ్చర్యార్థకం."
+    },
+    {
+      "en": "Oh, I see. 'Oh' is an interjection.",
+      "tel": "ఓహ్, నాకు అర్థమైంది. 'ఓహ్' ఒక ఆశ్చర్యార్థకం."
+    }
+  ],
+  "practice": {
+      "title": "Practice Exercise (అభ్యాస వ్యాయామం)",
+      "questions": [
+          {
+              "question_en": "Identify the interjection: 'Ouch! That hurt.'",
+              "question_tel": "ఆశ్చర్యార్థకం గుర్తించండి: 'అయ్యో! అది బాధించింది.'",
+              "options": ["That", "hurt", "Ouch!", "the"],
+              "answer": "Ouch!"
+          }
+      ]
+  }
+}

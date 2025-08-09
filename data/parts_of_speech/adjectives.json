@@ -1,0 +1,28 @@
+{
+  "title": "Adjectives (విశేషణాలు)",
+  "definition": {
+    "en": "An adjective is a word that describes or modifies a noun or pronoun.",
+    "tel": "విశేషణం అనేది నామవాచకాన్ని లేదా సర్వనామాన్ని వర్ణించే లేదా సవరించే పదం."
+  },
+  "examples": [
+    {
+      "en": "She has a beautiful handwriting. 'Beautiful' is an adjective.",
+      "tel": "ఆమె చేతిరాత అందంగా ఉంది. 'అందమైన' అనేది ఒక విశేషణం."
+    },
+    {
+      "en": "He is a tall boy. 'Tall' is an adjective.",
+      "tel": "అతను పొడవైన అబ్బాయి. 'పొడవైన' అనేది ఒక విశేషణం."
+    }
+  ],
+  "practice": {
+      "title": "Practice Exercise (అభ్యాస వ్యాయామం)",
+      "questions": [
+          {
+              "question_en": "Identify the adjective: 'The sky is blue.'",
+              "question_tel": "విశేషణం గుర్తించండి: 'ఆకాశం నీలంగా ఉంది.'",
+              "options": ["sky", "is", "blue", "The"],
+              "answer": "blue"
+          }
+      ]
+  }
+}

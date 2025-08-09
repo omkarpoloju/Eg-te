@@ -1,0 +1,22 @@
+[
+  {
+    "word": "abandon",
+    "telugu": "వదిలివేయు",
+    "part_of_speech": "verb",
+    "definition_en": "To leave a place, thing, or person, usually for ever.",
+    "definition_telugu": "ఒక ప్రదేశాన్ని, వస్తువును లేదా వ్యక్తిని సాధారణంగా శాశ్వతంగా విడిచిపెట్టడం.",
+    "examples": [
+      {"en": "He had to abandon his car in the snow.", "tel": "మంచులో అతను తన కారును వదిలివేయవలసి వచ్చింది."}
+    ]
+  },
+  {
+    "word": "ability",
+    "telugu": "సామర్థ్యం",
+    "part_of_speech": "noun",
+    "definition_en": "The physical or mental power or skill needed to do something.",
+    "definition_telugu": "ఏదైనా చేయడానికి అవసరమైన శారీరక లేదా మానసిక శక్తి లేదా నైపుణ్యం.",
+    "examples": [
+      {"en": "She has the ability to solve complex problems.", "tel": "సంక్లిష్ట సమస్యలను పరిష్కరించగల సామర్థ్యం ఆమెకు ఉంది."}
+    ]
+  }
+]

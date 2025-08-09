@@ -1,0 +1,32 @@
+{
+  "verb": "should",
+  "telugu": "చేయాలి (సలహా)",
+  "uses": [
+    {
+      "title": "Advice / Suggestion (సలహా / సూచన)",
+      "description_en": "To give advice or make a suggestion.",
+      "description_telugu": "సలహా ఇవ్వడానికి లేదా సూచన చేయడానికి.",
+      "examples": [
+        {
+          "en": "You should eat healthy food.",
+          "tel": "మీరు ఆరోగ్యకరమైన ఆహారం తినాలి."
+        },
+        {
+          "en": "He should study well for the exam.",
+          "tel": "అతను పరీక్ష కోసం బాగా చదువుకోవాలి."
+        }
+      ]
+    },
+    {
+      "title": "Expectation (అంచనా)",
+      "description_en": "To show that something is expected to happen.",
+      "description_telugu": "ఏదైనా జరుగుతుందని ఊహించినప్పుడు చూపించడానికి.",
+      "examples": [
+        {
+          "en": "The train should arrive on time.",
+          "tel": "రైలు సమయానికి రావాలి."
+        }
+      ]
+    }
+  ]
+}

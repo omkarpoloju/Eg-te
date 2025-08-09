@@ -1,0 +1,36 @@
+{
+  "verb": "may",
+  "telugu": "కావచ్చు / అనుమతి",
+  "uses": [
+    {
+      "title": "Possibility (సంభావ్యత)",
+      "description_en": "To suggest something is possible.",
+      "description_telugu": "ఏదైనా సాధ్యమని సూచించడానికి.",
+      "examples": [
+        {
+          "en": "It may rain today.",
+          "tel": "ఈరోజు వర్షం రావచ్చు."
+        },
+        {
+          "en": "He may come late.",
+          "tel": "అతను ఆలస్యంగా రావచ్చు."
+        }
+      ]
+    },
+    {
+      "title": "Formal Permission (అధికారిక అనుమతి)",
+      "description_en": "To ask for or give permission formally.",
+      "description_telugu": "అధికారికంగా అనుమతి అడగడానికి లేదా ఇవ్వడానికి.",
+      "examples": [
+        {
+          "en": "May I come in, sir?",
+          "tel": "అయ్యా, నేను లోపలికి రావచ్చా?"
+        },
+        {
+          "en": "You may begin the test now.",
+          "tel": "మీరు ఇప్పుడు పరీక్షను ప్రారంభించవచ్చు."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verb": "have to",
+  "telugu": "చేయాలి (బయటి నుండి వచ్చిన బాధ్యత)",
+  "uses": [
+    {
+      "title": "External Obligation (బయటి బాధ్యత)",
+      "description_en": "To show that an external rule or situation makes something necessary.",
+      "description_telugu": "బయటి నియమం లేదా పరిస్థితి వల్ల ఏదైనా అవసరమని చూపించడానికి.",
+      "examples": [
+        {
+          "en": "I have to wear a uniform at work.",
+          "tel": "నేను పనిలో యూనిఫాం ధరించాలి."
+        },
+        {
+          "en": "She has to pay the rent by Friday.",
+          "tel": "ఆమె శుక్రవారం నాటికి అద్దె చెల్లించాలి."
+        }
+      ]
+    },
+    {
+      "title": "Absence of Obligation (in negative)",
+      "description_en": "Using 'don't have to' shows that there is no obligation.",
+      "description_telugu": "'don't have to' ఉపయోగించడం ద్వారా బాధ్యత లేదని చూపవచ్చు.",
+      "examples": [
+        {
+          "en": "You don't have to come if you don't want to.",
+          "tel": "మీకు ఇష్టం లేకపోతే మీరు రానవసరం లేదు."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Spoken English for Telugu Speakers",
+  "short_name": "English-Telugu",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007BFF",
+  "description": "An offline-first web app to learn Spoken English for Telugu speakers.",
+  "icons": [
+    {
+      "src": "/assets/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

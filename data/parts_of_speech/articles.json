@@ -1,0 +1,32 @@
+{
+  "title": "Articles (ఆర్టికల్స్)",
+  "definition": {
+    "en": "An article is a word that comes before a noun to show whether it's specific or general. The articles are 'a', 'an', and 'the'.",
+    "tel": "ఆర్టికల్ అనేది నామవాచకం నిర్దిష్టమైనదా లేదా సాధారణమైనదా అని చూపించడానికి దాని ముందు వచ్చే పదం. 'a', 'an', మరియు 'the' ఆర్టికల్స్."
+  },
+  "examples": [
+    {
+      "en": "I saw a cat. 'a' is an indefinite article.",
+      "tel": "నేను ఒక పిల్లిని చూశాను. 'a' అనేది ఒక అనిశ్చిత ఆర్టికల్."
+    },
+    {
+      "en": "This is an apple. 'an' is an indefinite article.",
+      "tel": "ఇది ఒక ఆపిల్. 'an' అనేది ఒక అనిశ్చిత ఆర్టికల్."
+    },
+    {
+      "en": "The sun is bright. 'The' is the definite article.",
+      "tel": "సూర్యుడు ప్రకాశవంతంగా ఉన్నాడు. 'The' అనేది నిశ్చిత ఆర్టికల్."
+    }
+  ],
+  "practice": {
+      "title": "Practice Exercise (అభ్యాస వ్యాయామం)",
+      "questions": [
+          {
+              "question_en": "Fill in the blank: 'She is ___ honest girl.'",
+              "question_tel": "ఖాళీని పూరించండి: 'ఆమె ___ నిజాయితీ గల అమ్మాయి.'",
+              "options": ["a", "an", "the", "none"],
+              "answer": "an"
+          }
+      ]
+  }
+}

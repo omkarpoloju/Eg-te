@@ -1,0 +1,32 @@
+{
+  "verb": "would",
+  "telugu": "చేసేవాడిని / చేస్తాను (మర్యాదగా)",
+  "uses": [
+    {
+      "title": "Polite Offer / Request (మర్యాదపూర్వక ఆఫర్ / అభ్యర్థన)",
+      "description_en": "To make polite offers and requests.",
+      "description_telugu": "మర్యాదపూర్వక ఆఫర్లు మరియు అభ్యర్థనలు చేయడానికి.",
+      "examples": [
+        {
+          "en": "Would you like some coffee?",
+          "tel": "మీరు కాఫీ తీసుకుంటారా?"
+        },
+        {
+          "en": "Would you mind closing the door?",
+          "tel": "దయచేసి తలుపు మూసివేయగలరా?"
+        }
+      ]
+    },
+    {
+      "title": "Past Habit (గత అలవాటు)",
+      "description_en": "To talk about a repeated action in the past.",
+      "description_telugu": "గతంలో పదేపదే జరిగిన చర్య గురించి మాట్లాడటానికి.",
+      "examples": [
+        {
+          "en": "Every evening, he would go for a walk.",
+          "tel": "ప్రతి సాయంత్రం, అతను నడకకు వెళ్ళేవాడు."
+        }
+      ]
+    }
+  ]
+}

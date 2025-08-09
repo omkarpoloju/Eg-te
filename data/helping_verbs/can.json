@@ -1,0 +1,47 @@
+{
+  "verb": "can",
+  "telugu": "చేయగలను / చేయగలరు",
+  "uses": [
+    {
+      "title": "Ability (సామర్థ్యం)",
+      "description_en": "To show that someone is able to do something.",
+      "description_telugu": "ఎవరైనా ఏదైనా చేయగలరని చూపించడానికి.",
+      "examples": [
+        {
+          "en": "I can speak English.",
+          "tel": "నేను ఇంగ్లీష్ మాట్లాడగలను."
+        },
+        {
+          "en": "A bird can fly.",
+          "tel": "పక్షి ఎగరగలదు."
+        }
+      ]
+    },
+    {
+      "title": "Permission (అనుమతి)",
+      "description_en": "To ask for or give permission (informal).",
+      "description_telugu": "అనుమతి అడగడానికి లేదా ఇవ్వడానికి (అనధికారికంగా).",
+      "examples": [
+        {
+          "en": "Can I go home now?",
+          "tel": "నేను ఇప్పుడు ఇంటికి వెళ్ళవచ్చా?"
+        },
+        {
+          "en": "You can use my pen.",
+          "tel": "మీరు నా పెన్ను ఉపయోగించవచ్చు."
+        }
+      ]
+    }
+  ],
+  "practice": {
+      "title": "Mini Quiz",
+      "questions": [
+          {
+              "question_en": "Which sentence shows ability?",
+              "question_tel": "ఏ వాక్యం సామర్థ్యాన్ని చూపుతుంది?",
+              "options": ["Can I help you?", "He can run fast.", "You can go now."],
+              "answer": "He can run fast."
+          }
+      ]
+  }
+}

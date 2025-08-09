@@ -1,0 +1,47 @@
+{
+  "verb": "could",
+  "telugu": "చేయగలిగాను / చేయగలిగారు",
+  "uses": [
+    {
+      "title": "Past Ability (గత సామర్థ్యం)",
+      "description_en": "To show that someone was able to do something in the past.",
+      "description_telugu": "గతంలో ఎవరైనా ఏదైనా చేయగలిగారని చూపించడానికి.",
+      "examples": [
+        {
+          "en": "When I was young, I could run very fast.",
+          "tel": "నేను చిన్నప్పుడు చాలా వేగంగా పరుగెత్తగలిగేవాడిని."
+        },
+        {
+          "en": "She could not come to the party yesterday.",
+          "tel": "ఆమె నిన్న పార్టీకి రాలేకపోయింది."
+        }
+      ]
+    },
+    {
+      "title": "Polite Request (మర్యాదపూర్వక అభ్యర్థన)",
+      "description_en": "To make a polite request.",
+      "description_telugu": "మర్యాదపూర్వకంగా అభ్యర్థించడానికి.",
+      "examples": [
+        {
+          "en": "Could you please help me?",
+          "tel": "దయచేసి నాకు సహాయం చేయగలరా?"
+        },
+        {
+          "en": "Could I use your phone?",
+          "tel": "నేను మీ ఫోన్ ఉపయోగించవచ్చా?"
+        }
+      ]
+    }
+  ],
+  "practice": {
+      "title": "Mini Quiz",
+      "questions": [
+          {
+              "question_en": "Which sentence is a polite request?",
+              "question_tel": "ఏ వాక్యం మర్యాదపూర్వక అభ్యర్థన?",
+              "options": ["I could swim well.", "Could you pass the salt?", "He could not see it."],
+              "answer": "Could you pass the salt?"
+          }
+      ]
+  }
+}

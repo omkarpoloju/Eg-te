@@ -1,0 +1,32 @@
+{
+  "verb": "will have to",
+  "telugu": "చేయవలసి ఉంటుంది (భవిష్యత్తులో)",
+  "uses": [
+    {
+      "title": "Future Obligation (భవిష్యత్తు బాధ్యత)",
+      "description_en": "To express a necessity or obligation in the future.",
+      "description_telugu": "భవిష్యత్తులో ఒక అవసరాన్ని లేదా బాధ్యతను వ్యక్తపరచడానికి.",
+      "examples": [
+        {
+          "en": "We will have to wake up early tomorrow.",
+          "tel": "రేపు మనం తొందరగా లేవవలసి ఉంటుంది."
+        },
+        {
+          "en": "If you fail the exam, you will have to take it again.",
+          "tel": "మీరు పరీక్షలో విఫలమైతే, మీరు దానిని మళ్ళీ రాయవలసి ఉంటుంది."
+        }
+      ]
+    },
+    {
+      "title": "Future Certainty",
+      "description_en": "To express something that is certain to happen as a consequence.",
+      "description_telugu": "పర్యవసానంగా ఖచ్చితంగా జరిగేదాన్ని వ్యక్తపరచడానికి.",
+      "examples": [
+        {
+          "en": "If the road is closed, we will have to take a different route.",
+          "tel": "రహదారి మూసివేస్తే, మనం వేరే మార్గంలో వెళ్ళవలసి ఉంటుంది."
+        }
+      ]
+    }
+  ]
+}

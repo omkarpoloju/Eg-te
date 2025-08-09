@@ -1,0 +1,28 @@
+{
+  "title": "Prepositions (విభక్తి ప్రత్యయాలు)",
+  "definition": {
+    "en": "A preposition is a word used to link nouns, pronouns, or phrases to other words within a sentence. They show the relationship between the words.",
+    "tel": "విభక్తి ప్రత్యయం అనేది నామవాచకాలను, సర్వనామాలను లేదా పదబంధాలను వాక్యంలోని ఇతర పదాలకు అనుసంధానించడానికి ఉపయోగించే పదం. అవి పదాల మధ్య సంబంధాన్ని చూపుతాయి."
+  },
+  "examples": [
+    {
+      "en": "The book is on the table. 'On' is a preposition.",
+      "tel": "పుస్తకం బల్ల మీద ఉంది. 'మీద' అనేది విభక్తి ప్రత్యయం."
+    },
+    {
+      "en": "He is in the room. 'In' is a preposition.",
+      "tel": "అతను గదిలో ఉన్నాడు. 'లో' అనేది విభక్తి ప్రత్యయం."
+    }
+  ],
+  "practice": {
+      "title": "Practice Exercise (అభ్యాస వ్యాయామం)",
+      "questions": [
+          {
+              "question_en": "Identify the preposition: 'The cat is under the bed.'",
+              "question_tel": "విభక్తి ప్రత్యయం గుర్తించండి: 'పిల్లి మంచం కింద ఉంది.'",
+              "options": ["cat", "is", "under", "bed"],
+              "answer": "under"
+          }
+      ]
+  }
+}

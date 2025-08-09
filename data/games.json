@@ -1,0 +1,20 @@
+{
+  "matching": [
+    ["apple", "ఆపిల్"],
+    ["boy", "అబ్బాయి"],
+    ["cat", "పిల్లి"],
+    ["dog", "కుక్క"],
+    ["eye", "కన్ను"],
+    ["flower", "పువ్వు"]
+  ],
+  "scramble": [
+    { "word": "school", "hint": "పాఠశాల" },
+    { "word": "water", "hint": "నీరు" },
+    { "word": "mother", "hint": "అమ్మ" }
+  ],
+  "hangman": [
+    { "word": "hyderabad", "hint": "A major city in Telangana" },
+    { "word": "computer", "hint": "An electronic device" },
+    { "word": "language", "hint": "A system of communication" }
+  ]
+}

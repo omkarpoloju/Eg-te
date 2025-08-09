@@ -1,0 +1,35 @@
+{
+  "title": "Pronouns (సర్వనామాలు)",
+  "definition": {
+    "en": "A pronoun is a word used in place of a noun.",
+    "tel": "సర్వనామం అనేది నామవాచకానికి బదులుగా ఉపయోగించే పదం."
+  },
+  "sections": [
+    {
+      "title": "Types of Pronouns (సర్వనామాల రకాలు)",
+      "content_en": "Personal (I, you, he), Possessive (my, your, his), Demonstrative (this, that), etc.",
+      "content_tel": "వ్యక్తిగత (నేను, మీరు, అతను), స్వాధీన (నా, మీ, అతని), ప్రదర్శన (ఇది, అది), మొదలైనవి."
+    }
+  ],
+  "examples": [
+    {
+      "en": "He is a doctor. 'He' is a pronoun.",
+      "tel": "అతను ఒక వైద్యుడు. 'అతను' ఒక సర్వనామం."
+    },
+    {
+      "en": "This is my book. 'This' and 'my' are pronouns.",
+      "tel": "ఇది నా పుస్తకం. 'ఇది' మరియు 'నా' సర్వనామాలు."
+    }
+  ],
+  "practice": {
+      "title": "Practice Exercise (అభ్యాస వ్యాయామం)",
+      "questions": [
+          {
+              "question_en": "Identify the pronoun: 'She went to the market.'",
+              "question_tel": "సర్వనామాన్ని గుర్తించండి: 'ఆమె మార్కెట్‌కు వెళ్ళింది.'",
+              "options": ["market", "went", "the", "She"],
+              "answer": "She"
+          }
+      ]
+  }
+}

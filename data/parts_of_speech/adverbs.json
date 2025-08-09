@@ -1,0 +1,28 @@
+{
+  "title": "Adverbs (క్రియా విశేషణాలు)",
+  "definition": {
+    "en": "An adverb is a word that modifies a verb, an adjective, or another adverb.",
+    "tel": "క్రియా విశేషణం అనేది క్రియను, విశేషణాన్ని లేదా మరొక క్రియా విశేషణాన్ని సవరించే పదం."
+  },
+  "examples": [
+    {
+      "en": "He runs quickly. 'Quickly' is an adverb.",
+      "tel": "అతను వేగంగా పరుగెత్తుతాడు. 'వేగంగా' అనేది క్రియా విశేషణం."
+    },
+    {
+      "en": "It is a very beautiful flower. 'Very' is an adverb.",
+      "tel": "ఇది చాలా అందమైన పువ్వు. 'చాలా' అనేది క్రియా విశేషణం."
+    }
+  ],
+  "practice": {
+      "title": "Practice Exercise (అభ్యాస వ్యాయామం)",
+      "questions": [
+          {
+              "question_en": "Identify the adverb: 'She sings beautifully.'",
+              "question_tel": "క్రియా విశేషణం గుర్తించండి: 'ఆమె అందంగా పాడుతుంది.'",
+              "options": ["She", "sings", "beautifully", "."],
+              "answer": "beautifully"
+          }
+      ]
+  }
+}

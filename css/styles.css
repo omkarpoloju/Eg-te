@@ -1,0 +1,244 @@
+/* Global Styles & Variables */
+:root {
+    --primary-color: #007BFF;
+    --primary-color-dark: #0056b3;
+    --secondary-color: #f4f4f4;
+    --font-color: #333;
+    --light-gray: #ddd;
+    --border-radius: 8px;
+    --box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Noto Sans Telugu is a good choice for web fonts if we were using them.
+   For now, we rely on system fonts. */
+body {
+    font-family: 'Noto Sans Telugu', 'Gautami', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: var(--font-color);
+    line-height: 1.6;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* Layout & Container */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+header, footer {
+    background-color: var(--primary-color);
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+}
+
+header p {
+    margin: 0;
+    font-size: 1.1rem;
+}
+
+nav {
+    padding: 1rem;
+    background-color: white;
+    margin: 1rem auto;
+    max-width: 1200px;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+}
+
+nav h2 {
+    text-align: center;
+    margin-top: 0;
+    color: var(--primary-color);
+}
+
+main {
+    padding: 1rem;
+    background-color: white;
+    margin: 1rem auto;
+    max-width: 1200px;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+}
+
+footer {
+    margin-top: 2rem;
+}
+
+/* Navigation Menu */
+.menu-grid {
+    display: grid;
+    grid-template-columns: 1fr; /* Mobile-first: 1 column */
+    gap: 1.5rem;
+}
+
+.menu-grid section {
+    background-color: var(--secondary-color);
+    padding: 1rem;
+    border-radius: var(--border-radius);
+    border-left: 5px solid var(--primary-color);
+}
+
+.menu-grid h3 {
+    margin-top: 0;
+    border-bottom: 2px solid var(--light-gray);
+    padding-bottom: 0.5rem;
+}
+
+.menu-grid ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-grid li a {
+    display: block;
+    padding: 0.5rem;
+    text-decoration: none;
+    color: var(--primary-color);
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.menu-grid li a:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+/* Common Content Styles */
+.content-section {
+    margin-bottom: 2rem;
+}
+
+.content-section h2 {
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--secondary-color);
+    padding-bottom: 0.5rem;
+}
+
+.bilingual-pair {
+    margin: 1rem 0;
+    padding: 1rem;
+    background-color: #f9f9f9;
+    border-left: 4px solid var(--primary-color-dark);
+}
+
+.bilingual-pair .en {
+    font-weight: bold;
+}
+
+.bilingual-pair .tel {
+    color: #555;
+    font-size: 1.1em;
+}
+
+/* Buttons and Inputs */
+.search-box {
+    width: 100%;
+    padding: 0.8rem;
+    font-size: 1rem;
+    border-radius: var(--border-radius);
+    border: 1px solid var(--light-gray);
+    margin-bottom: 1rem;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.8rem 1.2rem;
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: var(--primary-color-dark);
+}
+
+/* Responsive Design */
+@media (min-width: 768px) {
+    .menu-grid {
+        grid-template-columns: repeat(2, 1fr); /* 2 columns for tablets */
+    }
+
+    header h1 {
+        font-size: 2.2rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .menu-grid {
+        grid-template-columns: repeat(4, 1fr); /* 4 columns for desktops */
+    }
+}
+
+/* Back link on content pages */
+.back-link {
+    display: inline-block;
+    margin-bottom: 1rem;
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: bold;
+}
+.back-link:hover {
+    text-decoration: underline;
+}
+
+/* Bilingual Toggle Controls */
+#bilingual-toggle {
+    background-color: #fff;
+    padding: 0.5rem;
+    margin: 1rem auto 0;
+    max-width: 1200px;
+    text-align: center;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+}
+#bilingual-toggle button {
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--primary-color);
+    background-color: white;
+    color: var(--primary-color);
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+#bilingual-toggle button.active {
+    background-color: var(--primary-color);
+    color: white;
+}
+#bilingual-toggle button:first-of-type {
+    border-top-left-radius: var(--border-radius);
+    border-bottom-left-radius: var(--border-radius);
+}
+#bilingual-toggle button:last-of-type {
+    border-top-right-radius: var(--border-radius);
+    border-bottom-right-radius: var(--border-radius);
+    border-left-width: 0;
+}
+#bilingual-toggle button:not(:first-of-type):not(:last-of-type) {
+    border-left-width: 0;
+}
+
+
+/* Class-based toggling */
+body.hide-telugu .tel {
+    display: none;
+}
+body.hide-english .en {
+    display: none;
+}

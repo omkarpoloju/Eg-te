@@ -1,0 +1,46 @@
+[
+  {
+    "base": "go",
+    "past": "went",
+    "past_participle": "gone",
+    "present_participle": "going",
+    "third_singular": "goes",
+    "telugu": "వెళ్ళు",
+    "examples": [
+      {"en": "They go to school every day.", "tel": "వారు ప్రతిరోజూ పాఠశాలకు వెళ్తారు."}
+    ]
+  },
+  {
+    "base": "eat",
+    "past": "ate",
+    "past_participle": "eaten",
+    "present_participle": "eating",
+    "third_singular": "eats",
+    "telugu": "తిను",
+    "examples": [
+      {"en": "I eat rice for lunch.", "tel": "నేను మధ్యాహ్న భోజనంలో అన్నం తింటాను."}
+    ]
+  },
+  {
+    "base": "see",
+    "past": "saw",
+    "past_participle": "seen",
+    "present_participle": "seeing",
+    "third_singular": "sees",
+    "telugu": "చూడు",
+    "examples": [
+      {"en": "Did you see the movie?", "tel": "మీరు సినిమా చూశారా?"}
+    ]
+  },
+  {
+    "base": "take",
+    "past": "took",
+    "past_participle": "taken",
+    "present_participle": "taking",
+    "third_singular": "takes",
+    "telugu": "తీసుకో",
+    "examples": [
+      {"en": "Please take a seat.", "tel": "దయచేసి కూర్చోండి."}
+    ]
+  }
+]

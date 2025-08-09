@@ -1,0 +1,32 @@
+{
+  "verb": "must",
+  "telugu": "తప్పక / ఖచ్చితంగా",
+  "uses": [
+    {
+      "title": "Obligation / Necessity (బాధ్యత / అవసరం)",
+      "description_en": "To show that something is necessary or required.",
+      "description_telugu": "ఏదైనా అవసరం లేదా అవసరమని చూపించడానికి.",
+      "examples": [
+        {
+          "en": "You must finish your homework.",
+          "tel": "నువ్వు నీ హోంవర్క్ తప్పక పూర్తి చేయాలి."
+        },
+        {
+          "en": "I must go now.",
+          "tel": "నేను ఇప్పుడు తప్పక వెళ్ళాలి."
+        }
+      ]
+    },
+    {
+      "title": "Strong Belief (గట్టి నమ్మకం)",
+      "description_en": "To conclude that something is certain.",
+      "description_telugu": "ఏదైనా ఖచ్చితంగా జరిగిందని నిర్ధారించడానికి.",
+      "examples": [
+        {
+          "en": "He is not here. He must be on his way.",
+          "tel": "అతను ఇక్కడ లేడు. అతను దారిలో ఉండి ఉండాలి."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "title": "General Grammar Quiz",
+    "slug": "general-grammar-quiz",
+    "description_en": "A short quiz to test your basic knowledge of English grammar.",
+    "description_tel": "మీ ప్రాథమిక ఆంగ్ల వ్యాకరణ పరిజ్ఞానాన్ని పరీక్షించడానికి ఒక చిన్న క్విజ్.",
+    "questions": [
+      {
+        "question_en": "Which of these is a pronoun?",
+        "question_tel": "వీటిలో సర్వనామం ఏది?",
+        "options": ["run", "beautiful", "He", "quickly"],
+        "answer": "He"
+      },
+      {
+        "question_en": "Fill in the blank: The books are ___ the table.",
+        "question_tel": "ఖాళీని పూరించండి: పుస్తకాలు ___ బల్ల మీద ఉన్నాయి.",
+        "options": ["on", "at", "in", "of"],
+        "answer": "on"
+      },
+      {
+        "question_en": "What is the past tense of 'go'?",
+        "question_tel": "'go' యొక్క భూతకాల రూపం ఏమిటి?",
+        "options": ["gone", "goed", "went", "going"],
+        "answer": "went"
+      }
+    ]
+  },
+  {
+    "title": "Helping Verbs Quiz",
+    "slug": "helping-verbs-quiz",
+    "description_en": "Test your understanding of helping verbs like can, should, and must.",
+    "description_tel": "can, should, మరియు must వంటి సహాయక క్రియలపై మీ అవగాహనను పరీక్షించుకోండి.",
+    "questions": [
+      {
+        "question_en": "Which helping verb is used to show ability?",
+        "question_tel": "సామర్థ్యాన్ని చూపించడానికి ఏ సహాయక క్రియను ఉపయోగిస్తారు?",
+        "options": ["should", "must", "can", "may"],
+        "answer": "can"
+      },
+      {
+        "question_en": "Fill in the blank: You ___ finish your homework before you play.",
+        "question_tel": "ఖాళీని పూరించండి: మీరు ఆడుకునే ముందు మీ హోంవర్క్ ___ పూర్తి చేయాలి.",
+        "options": ["can", "should", "may", "would"],
+        "answer": "should"
+      }
+    ]
+  }
+]

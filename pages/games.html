@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="te">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Games - Spoken English Course</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <style>
+        .game-list-item {
+            background-color: #f9f9f9;
+            padding: 1rem;
+            border-radius: var(--border-radius);
+            margin-bottom: 1rem;
+            cursor: pointer;
+            border-left: 5px solid var(--primary-color);
+            transition: box-shadow 0.3s;
+        }
+        .game-list-item:hover {
+            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+        }
+        .game-list-item h3 {
+            margin-top: 0;
+            color: var(--primary-color);
+        }
+        /* Styles for Matching Game */
+        .matching-game-container {
+            display: flex;
+            justify-content: space-around;
+            gap: 1rem;
+        }
+        .word-column {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            width: 45%;
+        }
+        .card {
+            padding: 15px;
+            border: 1px solid var(--light-gray);
+            border-radius: var(--border-radius);
+            cursor: pointer;
+            text-align: center;
+            transition: background-color 0.3s;
+        }
+        .card.selected {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        .card.matched {
+            background-color: #28a745;
+            color: white;
+            cursor: not-allowed;
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body data-page="games">
+
+    <header>
+        <h1>Games (ఆటలు)</h1>
+    </header>
+
+    <main class="container">
+        <a href="../index.html" class="back-link">&larr; Back to Menu</a>
+
+        <div id="game-main-container">
+            <!-- Game list or active game will be rendered here -->
+            <p>Loading games...</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Spoken English Course</p>
+    </footer>
+
+    <script src="../js/common.js"></script>
+</body>
+</html>

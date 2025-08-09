@@ -1,0 +1,35 @@
+{
+  "title": "Verbs (క్రియలు)",
+  "definition": {
+    "en": "A verb is a word that expresses action or a state of being.",
+    "tel": "క్రియ అనేది చర్యను లేదా స్థితిని వ్యక్తపరిచే పదం."
+  },
+  "sections": [
+    {
+      "title": "Types of Verbs (క్రియల రకాలు)",
+      "content_en": "Main Verbs (actions like 'run', 'eat') and Helping Verbs (like 'is', 'can', 'will').",
+      "content_tel": "ప్రధాన క్రియలు ('పరుగెత్తడం', 'తినడం' వంటి చర్యలు) మరియు సహాయక క్రియలు ('ఉంది', 'చేయగలరు', 'చేస్తారు' వంటివి)."
+    }
+  ],
+  "examples": [
+    {
+      "en": "The dog is barking. 'barking' is the main verb, 'is' is the helping verb.",
+      "tel": "కుక్క మొరుగుతోంది. 'మొరుగుతోంది' ప్రధాన క్రియ, 'ఉంది' సహాయక క్రియ."
+    },
+    {
+      "en": "I eat rice. 'eat' is the main verb.",
+      "tel": "నేను అన్నం తింటాను. 'తింటాను' ప్రధాన క్రియ."
+    }
+  ],
+  "practice": {
+      "title": "Practice Exercise (అభ్యాస వ్యాయామం)",
+      "questions": [
+          {
+              "question_en": "Identify the verb: 'Birds fly in the sky.'",
+              "question_tel": "క్రియను గుర్తించండి: 'పక్షులు ఆకాశంలో ఎగురుతాయి.'",
+              "options": ["Birds", "fly", "in", "sky"],
+              "answer": "fly"
+          }
+      ]
+  }
+}

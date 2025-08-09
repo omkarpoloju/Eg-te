@@ -1,0 +1,22 @@
+[
+  {
+    "word": "calculate",
+    "telugu": "లెక్కించు",
+    "part_of_speech": "verb",
+    "definition_en": "To determine (the amount or number of something) mathematically.",
+    "definition_telugu": "గణితశాస్త్రపరంగా (ఏదైనా మొత్తం లేదా సంఖ్యను) నిర్ధారించడం.",
+    "examples": [
+      {"en": "Can you calculate the total cost?", "tel": "మీరు మొత్తం ఖర్చును లెక్కించగలరా?"}
+    ]
+  },
+  {
+    "word": "challenge",
+    "telugu": "సవాలు",
+    "part_of_speech": "noun",
+    "definition_en": "A task or situation that tests someone's abilities.",
+    "definition_telugu": "ఒకరి సామర్థ్యాలను పరీక్షించే పని లేదా పరిస్థితి.",
+    "examples": [
+      {"en": "The new job is a real challenge.", "tel": "కొత్త ఉద్యోగం నిజమైన సవాలు."}
+    ]
+  }
+]

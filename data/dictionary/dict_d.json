@@ -1,0 +1,22 @@
+[
+  {
+    "word": "damage",
+    "telugu": "నష్టం",
+    "part_of_speech": "noun",
+    "definition_en": "Physical harm that impairs the value, usefulness, or normal function of something.",
+    "definition_telugu": "ఏదైనా విలువ, ఉపయోగం లేదా సాధారణ పనితీరును దెబ్బతీసే భౌతిక హాని.",
+    "examples": [
+      {"en": "The storm caused a lot of damage.", "tel": "తుఫాను చాలా నష్టాన్ని కలిగించింది."}
+    ]
+  },
+  {
+    "word": "decide",
+    "telugu": "నిర్ణయించు",
+    "part_of_speech": "verb",
+    "definition_en": "To make a choice from a number of alternatives.",
+    "definition_telugu": "అనేక ప్రత్యామ్నాయాల నుండి ఎంపిక చేసుకోవడం.",
+    "examples": [
+      {"en": "I can't decide what to wear.", "tel": "ఏమి ధరించాలో నేను నిర్ణయించుకోలేకపోతున్నాను."}
+    ]
+  }
+]

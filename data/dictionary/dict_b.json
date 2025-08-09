@@ -1,0 +1,22 @@
+[
+  {
+    "word": "balance",
+    "telugu": "సంతులనం",
+    "part_of_speech": "noun",
+    "definition_en": "A situation in which different elements are equal or in the correct proportions.",
+    "definition_telugu": "వివిధ అంశాలు సమానంగా లేదా సరైన నిష్పత్తిలో ఉన్న పరిస్థితి.",
+    "examples": [
+      {"en": "It is important to find a balance between work and life.", "tel": "పని మరియు జీవితం మధ్య సంతులనం కనుగొనడం ముఖ్యం."}
+    ]
+  },
+  {
+    "word": "beautiful",
+    "telugu": "అందమైన",
+    "part_of_speech": "adjective",
+    "definition_en": "Pleasing the senses or mind aesthetically.",
+    "definition_telugu": "ఇంద్రియాలను లేదా మనస్సును సౌందర్యపరంగా ఆహ్లాదపరిచేది.",
+    "examples": [
+      {"en": "What a beautiful flower!", "tel": "ఎంత అందమైన పువ్వు!"}
+    ]
+  }
+]

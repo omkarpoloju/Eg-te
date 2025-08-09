@@ -1,0 +1,56 @@
+{
+  "title": "Nouns (నామవాచకాలు)",
+  "definition": {
+    "en": "A noun is a word that names a person, place, thing, or idea.",
+    "tel": "నామవాచకం అంటే వ్యక్తి, ప్రదేశం, వస్తువు లేదా ఆలోచనకు పేరు పెట్టే పదం."
+  },
+  "sections": [
+    {
+      "title": "Types of Nouns (నామవాచకాల రకాలు)",
+      "content_en": "There are several types of nouns, including: Common Noun, Proper Noun, Collective Noun, and Abstract Noun.",
+      "content_tel": "నామవాచకాలలో అనేక రకాలు ఉన్నాయి, వాటిలో: కామన్ నౌన్, ప్రాపర్ నౌన్, కలెక్టివ్ నౌన్, మరియు అబ్స్ట్రాక్ట్ నౌన్."
+    },
+    {
+      "title": "Rules (నియమాలు)",
+      "content_en": "Proper nouns (like 'India', 'Ram') always start with a capital letter. Common nouns (like 'boy', 'city') do not, unless they are at the beginning of a sentence.",
+      "content_tel": "ప్రాపర్ నౌన్స్ ('ఇండియా', 'రామ్' వంటివి) ఎల్లప్పుడూ పెద్ద అక్షరంతో ప్రారంభమవుతాయి. కామన్ నౌన్స్ ('బాలుడు', 'నగరం' వంటివి) వాక్యం మొదట్లో ఉంటే తప్ప, పెద్ద అక్షరంతో ప్రారంభం కావు."
+    }
+  ],
+  "examples": [
+    {
+      "en": "The boy threw the ball.",
+      "tel": "అబ్బాయి బంతిని విసిరాడు."
+    },
+    {
+      "en": "Honesty is the best policy.",
+      "tel": "నిజాయితీ ఉత్తమ విధానం."
+    },
+    {
+      "en": "We live in Hyderabad.",
+      "tel": "మేము హైదరాబాద్‌లో నివసిస్తున్నాము."
+    }
+  ],
+  "mistakes": [
+      {
+          "en": "Incorrect: i live in india. Correct: I live in India.",
+          "tel": "తప్పు: నేను ఇండియాలో నివసిస్తున్నాను. ఒప్పు: నేను ఇండియాలో నివసిస్తున్నాను. (ప్రాపర్ నౌన్ క్యాపిటలైజేషన్)"
+      }
+  ],
+  "practice": {
+      "title": "Practice Exercise (అభ్యాస వ్యాయామం)",
+      "questions": [
+          {
+              "question_en": "Identify the noun in the sentence: 'The cat is sleeping on the mat.'",
+              "question_tel": "వాక్యంలో నామవాచకాన్ని గుర్తించండి: 'పిల్లి చాప మీద నిద్రపోతోంది.'",
+              "options": ["sleeping", "on", "cat", "the"],
+              "answer": "cat"
+          },
+          {
+              "question_en": "Which of the following is a proper noun?",
+              "question_tel": "కింది వాటిలో ప్రాపర్ నౌన్ ఏది?",
+              "options": ["city", "river", "Ganga", "girl"],
+              "answer": "Ganga"
+          }
+      ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "verb": "might",
+  "telugu": "జరగవచ్చు (తక్కువ అవకాశం)",
+  "uses": [
+    {
+      "title": "Weak Possibility (బలహీనమైన సంభావ్యత)",
+      "description_en": "To suggest a weak or less likely possibility.",
+      "description_telugu": "బలహీనమైన లేదా తక్కువ సంభావ్యతను సూచించడానికి.",
+      "examples": [
+        {
+          "en": "It might rain, but I'm not sure.",
+          "tel": "వర్షం రావచ్చు, కానీ నాకు ఖచ్చితంగా తెలియదు."
+        },
+        {
+          "en": "Take an umbrella, it might be useful.",
+          "tel": "గొడుగు తీసుకోండి, అది ఉపయోగపడవచ్చు."
+        }
+      ]
+    },
+    {
+      "title": "Polite Suggestion (మర్యాదపూర్వక సూచన)",
+      "description_en": "To make a very polite suggestion.",
+      "description_telugu": "చాలా మర్యాదపూర్వకమైన సూచన చేయడానికి.",
+      "examples": [
+        {
+          "en": "You might want to check the timings again.",
+          "tel": "మీరు సమయాలను మళ్ళీ తనిఖీ చేయాలనుకోవచ్చు."
+        }
+      ]
+    }
+  ]
+}

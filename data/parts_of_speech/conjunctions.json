@@ -1,0 +1,28 @@
+{
+  "title": "Conjunctions (సముచ్చయాలు)",
+  "definition": {
+    "en": "A conjunction is a word that joins words, phrases, or clauses.",
+    "tel": "సముచ్చయం అనేది పదాలను, పదబంధాలను లేదా క్లాజులను కలిపే పదం."
+  },
+  "examples": [
+    {
+      "en": "I like tea and coffee. 'And' is a conjunction.",
+      "tel": "నాకు టీ మరియు కాఫీ ఇష్టం. 'మరియు' అనేది ఒక సముచ్చయం."
+    },
+    {
+      "en": "He is poor but honest. 'But' is a conjunction.",
+      "tel": "అతను పేదవాడు కానీ నిజాయితీపరుడు. 'కానీ' అనేది ఒక సముచ్చయం."
+    }
+  ],
+  "practice": {
+      "title": "Practice Exercise (అభ్యాస వ్యాయామం)",
+      "questions": [
+          {
+              "question_en": "Identify the conjunction: 'Do you want to go now or later?'",
+              "question_tel": "సముచ్చయం గుర్తించండి: 'మీరు ఇప్పుడు వెళ్లాలనుకుంటున్నారా లేదా తరువాత?'",
+              "options": ["you", "want", "go", "or"],
+              "answer": "or"
+          }
+      ]
+  }
+}

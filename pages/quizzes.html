@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="te">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quizzes - Spoken English Course</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <style>
+        .quiz-list-item {
+            background-color: #f9f9f9;
+            padding: 1rem;
+            border-radius: var(--border-radius);
+            margin-bottom: 1rem;
+            cursor: pointer;
+            border-left: 5px solid var(--primary-color);
+            transition: box-shadow 0.3s;
+        }
+        .quiz-list-item:hover {
+            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+        }
+        .quiz-list-item h3 {
+            margin-top: 0;
+            color: var(--primary-color);
+        }
+        #quiz-container {
+            /* Styles for when a quiz is active */
+        }
+        .question-feedback {
+            margin-top: 1rem;
+            padding: 0.5rem;
+            border-radius: 4px;
+        }
+        .correct {
+            border: 2px solid green;
+        }
+        .incorrect {
+            border: 2px solid red;
+        }
+    </style>
+</head>
+<body data-page="quizzes">
+
+    <header>
+        <h1>Quizzes (క్విజ్‌లు)</h1>
+    </header>
+
+    <main class="container">
+        <a href="../index.html" class="back-link">&larr; Back to Menu</a>
+
+        <div id="quiz-main-container">
+            <!-- Quiz list or active quiz will be rendered here -->
+            <p>Loading quizzes...</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Spoken English Course</p>
+    </footer>
+
+    <script src="../js/common.js"></script>
+</body>
+</html>
