@@ -1,0 +1,22 @@
+[
+  {
+    "word": "eager",
+    "telugu": "ఆసక్తిగల",
+    "part_of_speech": "adjective",
+    "definition_en": "Wanting very much to do or have something.",
+    "definition_telugu": "ఏదైనా చేయాలని లేదా కలిగి ఉండాలని చాలా కోరుకోవడం.",
+    "examples": [
+      {"en": "She was eager to hear the news.", "tel": "ఆమె వార్త వినడానికి ఆసక్తిగా ఉంది."}
+    ]
+  },
+  {
+    "word": "economy",
+    "telugu": "ఆర్థిక వ్యవస్థ",
+    "part_of_speech": "noun",
+    "definition_en": "The system of trade and industry by which the wealth of a country is made and used.",
+    "definition_telugu": "ఒక దేశం యొక్క సంపద తయారు చేయబడిన మరియు ఉపయోగించబడే వాణిజ్యం మరియు పరిశ్రమల వ్యవస్థ.",
+    "examples": [
+      {"en": "The country's economy is growing fast.", "tel": "దేశ ఆర్థిక వ్యవస్థ వేగంగా అభివృద్ధి చెందుతోంది."}
+    ]
+  }
+]

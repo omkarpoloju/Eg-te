@@ -1,0 +1,4 @@
+[
+  {"word": "reason", "telugu": "కారణం", "part_of_speech": "noun", "definition_en": "A cause, explanation, or justification for an action or event.", "definition_telugu": "ఒక చర్య లేదా సంఘటనకు కారణం, వివరణ లేదా సమర్థన.", "examples": [{"en": "What is the reason for your delay?", "tel": "మీ ఆలస్యానికి కారణం ఏమిటి?"}]},
+  {"word": "remember", "telugu": "గుర్తుంచుకో", "part_of_speech": "verb", "definition_en": "To have in or be able to bring to one's mind an awareness of (someone or something that one has seen, known, or experienced in the past).", "definition_telugu": "(గతంలో చూసిన, తెలిసిన లేదా అనుభవించిన ఎవరైనా లేదా ఏదైనా) ఒకరి మనస్సులో కలిగి ఉండటం లేదా తీసుకురాగలగడం.", "examples": [{"en": "I remember his name.", "tel": "నాకు అతని పేరు గుర్తుంది."}]}
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "word": "gain",
+    "telugu": "పొందు",
+    "part_of_speech": "verb",
+    "definition_en": "To obtain or secure (something wanted or desirable).",
+    "definition_telugu": "(కోరుకున్న లేదా కావాల్సినదాన్ని) పొందడం లేదా భద్రపరచడం.",
+    "examples": [
+      {"en": "You will gain a lot of experience.", "tel": "మీరు చాలా అనుభవాన్ని పొందుతారు."}
+    ]
+  },
+  {
+    "word": "generous",
+    "telugu": "ఉదారమైన",
+    "part_of_speech": "adjective",
+    "definition_en": "Showing a readiness to give more of something, as money or time, than is strictly necessary or expected.",
+    "definition_telugu": "ఖచ్చితంగా అవసరమైన లేదా ఊహించిన దానికంటే ఎక్కువ డబ్బు లేదా సమయం వంటివి ఇవ్వడానికి సంసిద్ధతను చూపడం.",
+    "examples": [
+      {"en": "It was generous of him to pay for everyone.", "tel": "అందరికీ డబ్బు చెల్లించడం అతని ఉదారత."}
+    ]
+  }
+]

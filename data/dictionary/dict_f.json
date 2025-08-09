@@ -1,0 +1,22 @@
+[
+  {
+    "word": "fabric",
+    "telugu": "వస్త్రం",
+    "part_of_speech": "noun",
+    "definition_en": "Cloth or other material produced by weaving or knitting fibres.",
+    "definition_telugu": "ఫైబర్‌లను నేయడం లేదా అల్లడం ద్వారా ఉత్పత్తి చేయబడిన వస్త్రం లేదా ఇతర పదార్థం.",
+    "examples": [
+      {"en": "This dress is made of a beautiful silk fabric.", "tel": "ఈ దుస్తులు ఒక అందమైన పట్టు వస్త్రంతో తయారు చేయబడ్డాయి."}
+    ]
+  },
+  {
+    "word": "famous",
+    "telugu": "ప్రసిద్ధ",
+    "part_of_speech": "adjective",
+    "definition_en": "Known about by many people.",
+    "definition_telugu": "చాలా మందికి తెలిసినది.",
+    "examples": [
+      {"en": "He is a famous actor.", "tel": "అతను ఒక ప్రసిద్ధ నటుడు."}
+    ]
+  }
+]

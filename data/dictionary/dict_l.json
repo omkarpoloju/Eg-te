@@ -1,0 +1,4 @@
+[
+  {"word": "language", "telugu": "భాష", "part_of_speech": "noun", "definition_en": "The method of human communication, either spoken or written.", "definition_telugu": "మానవ సంభాషణ యొక్క పద్ధతి, మాట్లాడేది లేదా వ్రాసినది.", "examples": [{"en": "English is a global language.", "tel": "ఇంగ్లీష్ ఒక ప్రపంచ భాష."}]},
+  {"word": "learn", "telugu": "నేర్చుకో", "part_of_speech": "verb", "definition_en": "To gain knowledge or skill in (something) by study, experience, or being taught.", "definition_telugu": "అధ్యయనం, అనుభవం లేదా బోధన ద్వారా (ఏదైనా) జ్ఞానం లేదా నైపుణ్యాన్ని పొందడం.", "examples": [{"en": "I want to learn Telugu.", "tel": "నేను తెలుగు నేర్చుకోవాలనుకుంటున్నాను."}]}
+]
